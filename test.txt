@@ -3,3 +3,4 @@ Haciendo commits
 Se borro newbranch, estamos clear
 Cambiando desde github
 Cambiando commit name y email
+Add y commit a la vez
