@@ -2,3 +2,4 @@ Practicando git
 Haciendo commits
 Se borro newbranch, estamos clear
 Cambiando desde github
+Cambiando commit name y email
